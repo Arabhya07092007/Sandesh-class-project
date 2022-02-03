@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Sandesh",
+    "slug": "snack-32f2936c-b0ac-48a6-971b-66b9732f9949",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/appIcon2.png",
+    "splash": {
+      "image": "./assets/splash2.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/appIcon2.png",
+        "backgroundColor": "#fff"
+      },
+      "package": "com.arabhaya.snack32f2936cb0ac48a6971b66b9732f9949"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
